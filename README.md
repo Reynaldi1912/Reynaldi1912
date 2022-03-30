@@ -1,4 +1,4 @@
-# Hi there, I'm Reynaldi Ramadhani Eka Purnomo - Student from State Polytechnic Of Malang (2019-2023) 👋 
+# Hi there, I'm Reynaldi Ramadhani Eka Purnomo 👋 
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently interested in Web Programming

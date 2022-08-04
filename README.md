@@ -37,6 +37,7 @@
  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="word" />
  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SqlServer" />
  <img src="https://img.shields.io/badge/Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white" alt="javascript" />
+  <img src="https://img.shields.io/badge/CodeIgniter-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="Jquery" />
  <img src="https://img.shields.io/badge/java-f89820?style=for-the-badge&logo=java&logoColor=white" alt="java" />
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
